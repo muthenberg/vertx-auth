@@ -1,6 +1,6 @@
 = JWT Auth provider
 
-This component contains an out of the box a JWT implementation.
+This component contains an out of the box JWT implementation.
 To use this project, add the following dependency to the _dependencies_ section of your build descriptor:
 
 * Maven (in your `pom.xml`):
